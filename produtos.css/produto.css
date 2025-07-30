@@ -28,7 +28,7 @@ nav a {
     text-decoration: none;
 }
 
-.produtos {
+.produtos  {
    width: 940px;
    margin: 0 auto;
    padding:50px 0;
@@ -39,4 +39,14 @@ nav a {
     text-algin:center;
     width:30% ;
     vertical-align:top;
+}
+
+.produtos h2{
+    font-size: 30px;
+    font-weight: bold ;
+}
+
+.produto-preco{
+    font-size: 22px;
+    font-weight: bold ;
 }
