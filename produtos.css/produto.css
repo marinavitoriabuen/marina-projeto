@@ -28,6 +28,15 @@ nav a {
     text-decoration: none;
 }
 
+.produtos {
+   width: 940px;
+   margin: 0 auto;
+   padding:50px 0;
+}
+
 .produtos li {
     display: inline-block;
+    text-algin:center;
+    width:30% ;
+    vertical-align:top;
 }
